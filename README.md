@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Intro to new Media Ruzan</title>
+	<title>Intro to new Media Stepan</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="main.css">
-  <style>*{
+  <style>
+	  *{
 	padding: 0;
 	margin: 0;
 }
