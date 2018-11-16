@@ -35,8 +35,6 @@ a{
 	<div class="navbar">
 		<ul class="nav">
 			<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
-			<li><a href= title="">Logo</a></li>
-			<li><a href= title="gallery">Gallery</a></li>
 		</ul>
     </div>
     <div class="photos6">
