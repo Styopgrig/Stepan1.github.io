@@ -31,7 +31,7 @@ a{
   </style>
 </head>
 <body>
-	<h1>S</h1>
+	<h1>Stepan</h1>
 	<div class="navbar">
 		<ul class="nav">
 			<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
@@ -40,7 +40,7 @@ a{
 		</ul>
     </div>
     <div class="photos6">
-    	<img src="logo.jpg" alt="logo"  >	 	
+    		 	
     </div>
  
 
