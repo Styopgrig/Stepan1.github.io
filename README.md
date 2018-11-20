@@ -36,6 +36,7 @@ a{
 		<ul class="nav">
 			<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
 		</ul>
+		<a href= "styopgrig.github.io/Stepan.3gp "> Video</a>
     </div>
     <div class="photos6">
     		 	
