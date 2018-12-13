@@ -31,6 +31,7 @@ a{
 body 
 	  {
 	  backgroud-color: green;
+	  }
   </style>
 </head>
 <body>
