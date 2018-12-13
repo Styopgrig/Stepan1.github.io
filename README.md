@@ -30,7 +30,7 @@ a{
 	  }
 body 
 	  {
-	  backgroud-color: green;
+	  background-color: green;
 	  }
   </style>
 </head>
