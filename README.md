@@ -31,15 +31,15 @@ body
 	  {
 	   background-image: url("stepan.jpg");
 	  }
+	 
   </style>
 </head>
 <body>
 	<h1>Stepan</h1>
 	<div class="navbar">
 		<ul class="nav">
-			<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
-		</ul>
-		<a href= "styopgrig.github.io/Stepan.3gp "> Video</a>
+		<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
+			<li> <a href= "styopgrig.github.io/Stepan.3gp "> Video </a> </li>
     </div>
     		 	
  
