@@ -41,8 +41,9 @@ body
 		<ul>
 		<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
 		<li> <a href= "styopgrig.github.io/Stepan.3gp "> Video </a> </li>
-		<li> Alter ego </li>
-		<li> After effect </li>
+		<li><a href= "StepanGrigoryan.jpg"> Alter ego</a> </li>
+		<li><a href=""> After effect</a> </li>
+		<li> <a href="Stepan2.jpg">Logo </a></li>
 		</ul>
 		</p>
     		 	
