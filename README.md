@@ -37,9 +37,12 @@ body
 <body>
 	<h1>Stepan</h1>
 	
-		<ul class="nav">
+		<ul>
 		<li><a href="Magazine Stepan Grigoryan.pdf">Digital Zene</a></li>
-			<li> <a href= "styopgrig.github.io/Stepan.3gp "> Video </a> </li>
+		<li> <a href= "styopgrig.github.io/Stepan.3gp "> Video </a> </li>
+		<li> Alter ego </li>
+		<li> After effect </li>
+		</ul>
     		 	
  
 
