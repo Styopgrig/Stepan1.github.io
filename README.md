@@ -29,7 +29,7 @@ a{
 	  }
 body 
 	  {
-	  background-color: green;
+	   background-image: url("stepan.jpg");
 	  }
   </style>
 </head>
