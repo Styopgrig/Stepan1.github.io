@@ -9,7 +9,7 @@
 	margin: 0;
 }
 h1{
-	color: blue;
+	color: purple;
 	font-size: 40px;
 	font-style: italic;
 	font-family: Arial;
