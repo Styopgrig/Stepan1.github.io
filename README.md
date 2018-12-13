@@ -42,9 +42,7 @@ body
 		</ul>
 		<a href= "styopgrig.github.io/Stepan.3gp "> Video</a>
     </div>
-    <div class="photos6">
     		 	
-    </div>
  
 
 </body>
